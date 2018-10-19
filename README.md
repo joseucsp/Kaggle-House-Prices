@@ -6,6 +6,8 @@
 
 ## Modelo 3: Random Forest
 
+## Modelo 4: Lasso
+
 ## Leaderboard
 
 ![Alt text](imgs/leaderboard.png?raw=true "Kagle Leaderboard")
