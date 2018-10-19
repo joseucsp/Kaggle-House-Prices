@@ -4,6 +4,8 @@
 
 ## Modelo 2: ElasticNet Regression
 
+## Modelo 3: Random Forest
+
 ## Leaderboard
 
 ![Alt text](imgs/leaderboard.png?raw=true "Kagle Leaderboard")
